@@ -27,6 +27,6 @@
 ---
 
 ## 🌐 Контакты
-**Website:** https://imba-team.ru  
+**IMBA.HOST:** https://imba.host
 **Email:** info@imba-team.ru  
 **Ген. директор:** magic@imba-team.ru  
